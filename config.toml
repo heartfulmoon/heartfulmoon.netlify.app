@@ -1,0 +1,4 @@
+baseURL = "http://heartfulmoon.netlify.com/"
+languageCode = "ja"
+title = "Hearfulmoon Web Site"
+theme = "hyde-y"
