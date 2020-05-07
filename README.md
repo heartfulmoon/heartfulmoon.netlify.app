@@ -1,4 +1,4 @@
-<!-- -*- mode: markdown -*- coding: utf-8 -*- -->
+<!-- -*- mode: markdown x-*- coding: utf-8 -*- -->
 # heartfulmoon.netlify.app
 
 ## prepare
@@ -10,7 +10,7 @@ make repository named hertfulmoon.netlify.app in github.com
 create
 
     $ hugo new site hertfulmoon.netlify.app
-    
+
 deploy into github
 
     $ cd hertfulmoon.netlify.app/
@@ -34,3 +34,7 @@ deploy into github
     $ git add .
     $ git commit -m 'modify'
     $ git push
+
+## note
+
+add public in .gitignore
