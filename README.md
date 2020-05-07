@@ -1,20 +1,21 @@
-# heartfulmoon.netlify.com
+<!-- -*- mode: markdown -*- coding: utf-8 -*- -->
+# heartfulmoon.netlify.app
 
 ## prepare
 
-make repository named hertfulmoon.netlify.com in github.com
+make repository named hertfulmoon.netlify.app in github.com
 
 ## initialization
 
 create
 
-    $ hugo new site hertfulmoon.netlify.com
+    $ hugo new site hertfulmoon.netlify.app
     
 deploy into github
 
-    $ cd hertfulmoon.netlify.com/
+    $ cd hertfulmoon.netlify.app/
     $ git init
-    $ git remote add origin git@github-heartfulmoon:heartfulmoon/heartfulmoon.netlify.com
+    $ git remote add origin git@github-heartfulmoon:heartfulmoon/heartfulmoon.netlify.app
     $ git add .
     $ git commit -m 'first commit'
     $ git push -u origin master
@@ -24,8 +25,8 @@ deploy into github
 * login as heartfulmoon@github.com
 * use github repositry called heartfulmoon.github.com
 * set bellow
-    - Build command: hugo
-    - Public directory: public
+    * Build command: hugo
+    * Public directory: public
 * set Build Hooks(必要か) 
 
 ## publish
