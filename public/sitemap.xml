@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://heartfulmoon.netlify.app/post/2020/05/08/helloworld/</loc>
-    <lastmod>2020-05-08T11:20:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://heartfulmoon.netlify.app/</loc>
-    <lastmod>2020-05-08T11:20:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://heartfulmoon.netlify.app/post/</loc>
-    <lastmod>2020-05-08T11:20:37+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://heartfulmoon.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://heartfulmoon.netlify.app/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://heartfulmoon.netlify.app/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-05-08T11:48:56+09:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://heartfulmoon.netlify.app/ja/sitemap.xml</loc>
+		
+	   	<lastmod>2020-05-08T11:48:56+09:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
