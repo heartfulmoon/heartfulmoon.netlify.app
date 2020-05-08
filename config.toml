@@ -12,8 +12,8 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-#baseURL = "https://heartfulmoon.netlify.app/"
-baseURL = ""
+baseURL = "https://heartfulmoon.netlify.app/"
+#baseURL = ""
 #relativeurls = true
 languageCode = "ja"
 defaultContentLanguage = "ja"
