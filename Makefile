@@ -21,7 +21,7 @@ build: ## Build static html
 	@hugo
 
 build-github:
-	@hugo --config config.toml,config-github.toml 
+	@hugo --config config.toml,config-github.toml
 
 deploy: build ## Deploy on Netlify
 	@sh deploy.sh
