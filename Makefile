@@ -20,8 +20,11 @@ run-without-draft: ## Run server without draft posts
 build: ## Build static html
 	@hugo
 
-deploy: ## Deploy on Github Pages
+deploy: build ## Deploy on Netlify
 	@sh deploy.sh
+
+deploy-github: ## Deploy on Github Pages
+	@cd public && sh ../deploy.sh
 
 clean: ## Clean old files
 	@hugo --cleanDestinationDir

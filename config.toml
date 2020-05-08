@@ -12,10 +12,11 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://heartfulmoon.netlify.app/"
+#baseURL = "https://heartfulmoon.netlify.app/"
+baseURL = ""
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "Hugo tranquilpeak theme"
+title = "Heartfulmoon Web Site"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
