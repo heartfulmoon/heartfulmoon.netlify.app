@@ -12,7 +12,7 @@ ifneq ("$(wildcard ./.env)","")
 endif
 
 run: ## Run server
-	@hugo server --buildDrafts --watch
+	@hugo server --buildDrafts --watch --bind 0.0.0.0
 
 run-without-draft: ## Run server without draft posts
 	@hugo server --theme=beautifulehugo --watch
@@ -27,7 +27,7 @@ deploy: build ## Deploy on Netlify
 	@sh deploy.sh
 
 deploy-github: build-github ## Deploy on Github Pages
-	@cd public && sh ../deploy.sh
+	@cd public.github && sh ../deploy.sh
 
 clean: ## Clean old files
 	@hugo --cleanDestinationDir
