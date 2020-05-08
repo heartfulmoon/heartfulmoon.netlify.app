@@ -1,40 +1,90 @@
-<!-- -*- mode: markdown x-*- coding: utf-8 -*- -->
-# heartfulmoon.netlify.app
+# README
 
-## prepare
+## セットアップ
 
-make repository named hertfulmoon.netlify.app in github.com
+サイト作成
 
-## initialization
+    $ hugo new site heartfulmoon.netlify.app
 
-create
+テーマ設定
 
-    $ hugo new site hertfulmoon.netlify.app
+    $ cd heartfulmoon.netlify.app/themes
+    $ git submodule add https://github.com/peaceiris/hugo-theme-iris.git
 
-deploy into github
+サイト設定
 
-    $ cd hertfulmoon.netlify.app/
-    $ git init
-    $ git remote add origin git@github-heartfulmoon:heartfulmoon/heartfulmoon.netlify.app
-    $ git add .
-    $ git commit -m 'first commit'
-    $ git push -u origin master
+    $ vi cp -pr ./themes/hugo-theme-iris/exampleSite/{config,content,data,static} .
+    vi config/_default/config.yaml 
+    baseURL = "http://heartfulmoon.netlify.app/"
+    languageCode = "ja"
+    title = "Heartfullmoon Web Site"
+    theme = "hugo-theme-iris"
 
-## netlily
+## 使い方
 
-* login as heartfulmoon@github.com
-* use github repositry called heartfulmoon.github.com
-* set bellow
-    * Build command: hugo
-    * Public directory: public
-* set Build Hooks(必要か) 
+### 投稿
 
-## publish
+新規投稿
 
-    $ git add .
-    $ git commit -m 'modify'
-    $ git push
+    $ cd heartfulmoon.netlify.app
+    $ hugo new ja/posts/2020/05/08/helloworld.md
+    content/posts/2020/05/08/helloworld created
+    
+文書作成
 
-## note
+    $ vi content/posts/2020/05/08/helloworld
+    
+下書きモード解除
 
-add public in .gitignore
+    $ vi content/posts/2020/05/08/helloworld.md
+    ...
+    draft: false
+    ...
+    
+    
+サーバ起動(http://localhost:1313)
+
+    $ hugo server -D
+
+固定ページの作成
+
+    $ mkdir -p content/page/about/
+    $ vi content/page/about/index.md
+    ...
+    
+上記ファイル構成を元にconfig.tomlのメニューを設定
+
+    [[menu.main]]
+      name = "Blog"
+      url = "post"
+      weight = 1
+    
+    [[menu.main]]
+      name = "Tags"
+      url = "tags"
+      weight = 2
+    
+    [[menu.main]]
+      name = "About"
+      url = "page/about/"
+      weight = 3
+
+プレビュー(http://localhost:1313)
+
+    $ make run
+
+## Github連携
+
+config.tomlに以下の設定
+
+    baseURL = "https://higebobo.github.com/blog-hugo/"
+    publishDir = "docs"
+
+公開(githubにプッシュ)
+
+    $ make deploy
+
+## Link
+
+* [Hugo \+ Github Pagesでブログを公開してみた \- Qiita](https://qiita.com/eichann/items/4fe61b8b9bbafcfbe847)
+* [GitHub PagesとHugoでブログをつくった \- meow\.md](https://uzimihsr.github.io/post/2019-08-07-create-blog-1/)

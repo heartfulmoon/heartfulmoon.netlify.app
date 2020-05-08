@@ -12,7 +12,7 @@ ifneq ("$(wildcard ./.env)","")
 endif
 
 run: ## Run server
-	@hugo server --theme=beautifulhugo --buildDrafts --watch
+	@hugo server --buildDrafts --watch
 
 run-without-draft: ## Run server without draft posts
 	@hugo server --theme=beautifulehugo --watch
