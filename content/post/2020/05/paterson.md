@@ -9,12 +9,10 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/916BmRBHFAL._SX300_.jpg
 ---
-まあタイトルからしていい嘘をつくんだろうなとは思ったが
+評価が高かったので見たものの
 <!--more-->
-この展開は予想しなかった。
+うーん。いかにも高尚な映画という雰囲気がつまらなかった。よ。
 
-カバーの白人女性があたかも主人公に見えるがそうではない。
-
-いろいろと考えさせられる映画だった。
+最初にクレジットにあった永瀬正敏さんが忘れた頃に出てくるw
 
 [![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/916BmRBHFAL._SX300_.jpg)](https://www.amazon.co.jp/gp/video/detail/B07B3G23NX/ref=atv_dp_b01_det_c_Z0r2A3_1_9 "amazon primeで見る")
