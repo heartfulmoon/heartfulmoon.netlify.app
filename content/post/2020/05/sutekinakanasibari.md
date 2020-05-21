@@ -1,6 +1,6 @@
 ---
 title: すてきな金縛り
-slug: stekinakanasibari
+slug: sutekinakanasibari
 date: 2020-05-15T13:25:31+09:00
 categories:
   - movie

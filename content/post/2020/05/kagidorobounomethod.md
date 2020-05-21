@@ -15,4 +15,4 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81iwl7XjyNL._SX
 
 人のことを忘れても言葉を忘れないのが不思議。
 
-[![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/81vvucUzbCL._SX300_.jpg)](https://www.amazon.co.jp/gp/video/detail/B00FYIU1B6/ref=atv_dp_b00_det_c_Z0r2A3_1_1 "amazon primeで見る")
+[![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/81iwl7XjyNL._SX300_.jpg)](https://www.amazon.co.jp/gp/video/detail/B00FYIU1B6/ref=atv_dp_b00_det_c_Z0r2A3_1_1 "amazon primeで見る")

@@ -9,10 +9,12 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/811FbWbpchL._SX300_.jpg
 ---
-売れない役者がとんだ事件に巻き込まれる
+まあタイトルからしていい嘘をつくんだろうなとは思ったが
 <!--more-->
-記憶喪失系というテーマはよくドラマでも取り上げられるが本当にこうなるのか。
+この展開は予想しなかった。
 
-人のことを忘れても言葉を忘れないのが不思議。
+カバーの白人女性があたかも主人公に見えるがそうではない。
+
+いろいろと考えさせられる映画だった。
 
 [![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/811FbWbpchL._SX300_.jpg)](https://www.amazon.co.jp/gp/video/detail/B079SW663J/ref=atv_dp_b00_det_c_Z0r2A3_1_9 "amazon primeで見る")
