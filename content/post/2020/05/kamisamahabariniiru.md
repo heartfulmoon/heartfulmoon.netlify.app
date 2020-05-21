@@ -1,5 +1,5 @@
 ---
-title: "Kamisamahabariniiru"
+title: "神様はバリにいる"
 slug: kamisamahabariniiru
 date: 2020-05-20T15:29:06+09:00
 categories:
