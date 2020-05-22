@@ -1,13 +1,13 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-#slug: 
+slug: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 #draft: true
 categories:
   - movie
 tags:
   - ドラマ
-#thumbnailImagePosition: left
+thumbnailImagePosition: left
 #thumbnailImage: 
 ---
 

@@ -12,8 +12,10 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91rM9DCnQdL._SX
 ---
 コメディタッチのアクション映画
 <!--more-->
-内容が単純でわかりやすい。
+アクション映画も陰謀や裏切りがあって内容が複雑になる場合が多いがこれは単純明快。
 
-カルテルのボスがなんかチープ
+手を変え品を変えの追手が面白い。セクシー軍団、ブラックマッチョマン、インディアン。
+
+カルテルのボスのキャスティングなんかチープだったのが唯一残念(凄み・貫禄がないというか)
 
 [![amazon prime](https://images-na.ssl-images-amazon.com/images/I/91rM9DCnQdL._SX300_.jpg)](https://www.amazon.co.jp/dp/B00FHQ2CKI)
