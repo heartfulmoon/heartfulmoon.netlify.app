@@ -4,21 +4,85 @@
 
 サイト作成
 
-    $ hugo new site heartfulmoon.netlify.app
+```shell
+hugo new site heartfulmoon.netlify.app
+```
 
-テーマ設定(テーマをカスタマイズせずそのまま使う場合はsubmodule化がよい)
+レポジトリ初期化
 
-    $ cd heartfulmoon.netlify.app/themes
-    $ git submodule add https://github.com/kakawait/hugo-tranquilpeak-theme.git
+```shell
+cd heartfulmoon.netlify.app
+git init
+echo '*~' >> .gitignore
+echo '*.bak' >> .gitignore
+echo '*.orig' >> .gitignore
+echo '.env' >> .gitignore
+echo 'public' >> .gitignor
+echo 'resources' >> .gitignor
+```
+
+テーマ設定
+
+```shell
+cd themes
+git submodule add https://github.com/kakawait/hugo-tranquilpeak-theme.git
+```
 
 サイト設定
 
-    $ cp -pr ./themes/hugo-tranquilpeak-theme/exampleSite/config.toml .
-    vi config.toml
-    baseURL = "http://heartfulmoon.netlify.app/"
-    languageCode = "ja"
-    title = "Heartfullmoon Web Site"
-    theme = "hugo-tranquilpeak-iris"
+```shell
+cd ..
+cp -pr ./themes/hugo-tranquilpeak-theme/exampleSite/config.toml .
+```
+
+config.toml
+
+```toml
+baseURL = "http://heartfulmoon.netlify.app/"
+languageCode = "ja"
+title = "Heartfullmoon Web Site"
+theme = "hugo-tranquilpeak-iris"
+```
+
+> github pagesやnetlifyで使う場合はbaseURLのプロトコルはhttpsにすること
+
+
+起動確認(http://localhost:1313)
+
+```shell
+cp /path/to/someplace/Makefile .
+make run
+```
+
+Githubレポジトリ作成後
+
+```shell
+git remote add origin git@github.com:heartfulmoon/hearfulmoon.netlify.app.git
+git add .
+git commit -m 'init'
+git push -u origin master
+```
+
+## Github Actionsの利用
+
+* .github/workflows/gh-pages.yamlを作成
+    * ソースはmasterブランチ
+    * 出力はpublicフォルダの内容をgh-pagesブランチ
+
+```shell
+make deploy
+```
+
+* Github>Settings>Gighub Pages>Source>gh-pages branchに設定する
+* しばらく時間がかかる
+
+## 既存のレポジトリからクローンする場合
+
+```shell
+git clone git@github.com:heartfulmoon/hearfulmoon.netlify.app.git hearfulmoon.netlify.app
+cd higebobo-novela
+git submodule update --init --recursive
+```
 
 ## 使い方
 
@@ -26,66 +90,52 @@
 
 新規投稿
 
-    $ cd heartfulmoon.netlify.app
-    $ hugo new ja/post/2020/05/helloworld.md
-    content/post/2020/05/helloworld created
-    
+```shell
+hugo new ja/post/2020/05/helloworld.md
+content/post/2020/05/helloworld created
+```
+
 文書作成
 
-    $ vi content/post/2020/05/helloworld
-    
-下書きモード解除
-
-    $ vi content/posts/2020/05/helloworld.md
-    ...
-    draft: false
-    ...
-    
-    
-サーバ起動(http://localhost:1313)
-
-    $ hugo server -D
+```shell
+vi content/post/2020/05/helloworld
+```
 
 固定ページの作成
 
-    $ mkdir -p content/page/about/
-    $ vi content/page/about/index.md
-    ...
-    
+```shell
+mkdir -p content/page/about/
+i content/page/about/index.md
+```
+
 上記ファイル構成を元にconfig.tomlのメニューを設定
 
-    [[menu.main]]
-      name = "Blog"
-      url = "post"
-      weight = 1
-    
-    [[menu.main]]
-      name = "Tags"
-      url = "tags"
-      weight = 2
-    
-    [[menu.main]]
-      name = "About"
-      url = "page/about/"
-      weight = 3
+```toml
+[[menu.main]]
+  name = "Blog"
+  url = "post"
+  weight = 1
 
-プレビュー(http://localhost:1313)
+[[menu.main]]
+  name = "Tags"
+  url = "tags"
+  weight = 2
 
-    $ make run
-
-## Github連携
-
-config.tomlに以下の設定
-
-    baseURL = "https://higebobo.github.com/blog-hugo/"
-    publishDir = "docs"
+[[menu.main]]
+  name = "About"
+  url = "page/about/"
+  weight = 3
+```
 
 公開(githubにプッシュ)
 
-    $ make deploy
+```shell
+make deploy
+```
 
 ## Link
 
+* [hugo\-tranquilpeak\-theme/user\.md at master · kakawait/hugo\-tranquilpeak\-theme](https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md)
 * [Hugo \+ Github Pagesでブログを公開してみた \- Qiita](https://qiita.com/eichann/items/4fe61b8b9bbafcfbe847)
 * [GitHub PagesとHugoでブログをつくった \- meow\.md](https://uzimihsr.github.io/post/2019-08-07-create-blog-1/)
 * [Hugoの導入から使い方とNetlifyでリリースするまでの方法](https://blog.cotapon.org/how-to-release-netlify-using-hugo/)
