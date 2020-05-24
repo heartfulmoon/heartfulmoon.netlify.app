@@ -7,6 +7,7 @@ categories:
 tags:
 - アクション
 - コメディ
+- バイオレンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91rM9DCnQdL._SX300_.jpg
 ---
