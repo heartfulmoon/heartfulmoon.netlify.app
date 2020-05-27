@@ -1,5 +1,5 @@
 ---
-title: "Pikachu"
+title: "名探偵ピカチュー"
 slug: "Pikachu"
 date: 2020-05-26T13:58:36+09:00
 #draft: true
