@@ -2,13 +2,13 @@
 title: "実録 竹中正久の生涯 荒らぶる獅子"
 slug: "Araburusisi"
 date: 2020-05-27T13:36:53+09:00
-#draft: true
 categories:
   - movie
 tags:
-  - ドラマ
+  - ヒューマン
+  - バイオレンス
 thumbnailImagePosition: left
-thumbnailImage: https://www.amazon.co.jp/gp/video/detail/B085W8MSF2/ref=atv_dp_b08_det_c_Z0r2A3_1_5
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/71huLhVutQL._SX600_.jpg
 ---
 見るきっかけは仁義なき戦いに最近はまっていたのでちょっと興味をひいた程度だった。
 <!--more-->
@@ -18,7 +18,7 @@ thumbnailImage: https://www.amazon.co.jp/gp/video/detail/B085W8MSF2/ref=atv_dp_b
 
 それにしても小沢仁志さん迫力ありすぎ
 
-[![amazon primeで見る](https://www.amazon.co.jp/gp/video/detail/B085W8MSF2/ref=atv_dp_b08_det_c_Z0r2A3_1_5)](https://www.amazon.co.jp/gp/video/detail/B085W8MSF2/ref=atv_dp_b08_det_c_Z0r2A3_1_5 "amazon primeで見る")
+[![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/71huLhVutQL._SX600_.jpg)](https://www.amazon.co.jp/gp/video/detail/B085W8MSF2/ref=atv_dp_b08_det_c_Z0r2A3_1_5 "amazon primeで見る")
 
 [![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/712HW0vuLIL._SX600_.jpg)](https://www.amazon.co.jp/gp/video/detail/B085XC633K/ref=atv_dp_b08_det_c_Z0r2A3_1_1 "amazon primeで見る")
 
