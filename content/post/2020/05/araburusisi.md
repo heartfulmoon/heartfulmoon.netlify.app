@@ -9,7 +9,7 @@ tags:
   - バイオレンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/71huLhVutQL._SX600_.jpg
-amazon_prime_url: https://www.amazon.co.jp/gp/video/detail/B085W8MSF2/ref=atv_dp_b08_det_c_Z0r2A3_1_5
+link_url: https://www.amazon.co.jp/gp/video/detail/B085W8MSF2/ref=atv_dp_b08_det_c_Z0r2A3_1_5
 ---
 見るきっかけは仁義なき戦いに最近はまっていたのでちょっと興味をひいた程度だった。
 <!--more-->

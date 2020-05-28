@@ -10,7 +10,7 @@ tags:
   - サスペンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/818K8BTRn3L._SX600_.jpg
-amazon_prime_url: https://www.amazon.co.jp/gp/video/detail/B07M967V72/ref=atv_dp_b00_det_c_Z0r2A3_1_20
+link_url: https://www.amazon.co.jp/gp/video/detail/B07M967V72/ref=atv_dp_b00_det_c_Z0r2A3_1_20
 ---
 最初からどんどん引き込まれる感はある。
 <!--more-->

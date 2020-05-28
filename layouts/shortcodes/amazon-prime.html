@@ -1,10 +1,10 @@
 {{ $title := default $.Page.Params.title (.Get "title") }}
-{{ $url := default $.Page.Params.amazon_prime_url (.Get "url") }}
+{{ $url := default $.Page.Params.link_url (.Get "url") }}
 {{ $image := default $.Page.Params.thumbnailImage (.Get "image") }}
-{{ $nocredit := default "0" (.Get "nocredit") }}
+{{ $credit := default "(Amazon Prime Video)" (.Get "credit") }}
 <figure>
   <p>
     <a href="{{ $url }}" title="{{ $title }}"><img src="{{ $image }}" alt="{{ $title }}"></a>
   </p>
-  <figcaption><strong>{{ $title }}</strong>{{ if eq $nocredit "0" }} (Amazon Prime Video){{ end }}</figcaption>
+  <figcaption><strong>{{ $title }}</strong>{{ $credit }}</figcaption>
 </figure>

@@ -8,7 +8,7 @@ tags:
   - コメディ
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/A1xVOzlxpAL._SX300_.jpg
-amazon_prime_url: https://www.amazon.co.jp/gp/video/detail/B00ZE36B0Q/ref=atv_dp_b00_det_c_Z0r2A3_1_2
+link_url: https://www.amazon.co.jp/gp/video/detail/B00ZE36B0Q/ref=atv_dp_b00_det_c_Z0r2A3_1_2
 ---
 面白い。堤真一のキャラこすぎ
 <!--more-->

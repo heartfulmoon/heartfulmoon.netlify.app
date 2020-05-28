@@ -8,7 +8,7 @@ tags:
   - ホラー
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/810XI8bjBIL._SX600_.jpg
-amazon_prime_url: https://www.amazon.co.jp/gp/video/detail/B07K9BNX9V/ref=atv_sr_def_c_unkc__1_1_1
+link_url: https://www.amazon.co.jp/gp/video/detail/B07K9BNX9V/ref=atv_sr_def_c_unkc__1_1_1
 ---
 映画の脚本設定自体は面白い。
 <!--more-->
