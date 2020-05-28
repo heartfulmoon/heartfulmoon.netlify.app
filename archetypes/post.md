@@ -9,6 +9,7 @@ tags:
   - ドラマ
 thumbnailImagePosition: left
 #thumbnailImage: 
+#amazon_prime_url: 
 ---
 
 <!--more-->

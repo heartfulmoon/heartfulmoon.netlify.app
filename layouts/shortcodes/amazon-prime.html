@@ -1,0 +1,9 @@
+{{ $title := default $.Page.Params.title (.Get "title") }}
+{{ $url := default $.Page.Params.amazon_prime_url (.Get "url") }}
+{{ $image := default $.Page.Params.thumbnailImage (.Get "image") }}
+<figure>
+  <p>
+    <a href="{{ $url }}" title="{{ $title }}"><img src="{{ $image }}" alt="{{ $title }}"></a>
+  </p>
+  <figcaption><strong>{{ $title }}</strong> (Amazon Prime Video)</figcaption>
+</figure>

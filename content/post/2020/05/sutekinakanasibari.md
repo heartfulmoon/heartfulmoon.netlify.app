@@ -8,6 +8,7 @@ tags:
   - コメディ
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81vvucUzbCL._SX300_.jpg
+amazon_prime_url: https://www.amazon.co.jp/gp/video/detail/B00GM39NNE/ref=atv_dp_b00_det_c_Z0r2A3_1_5
 ---
 殺人事件の公判に幽霊を証人喚問に呼ぶ話
 <!--more-->
@@ -15,4 +16,4 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81vvucUzbCL._SX
 
 こういうキャラは西田敏行さんの十八番だな。
 
-[![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/81vvucUzbCL._SX300_.jpg)](https://www.amazon.co.jp/gp/video/detail/B00GM39NNE/ref=atv_dp_b00_det_c_Z0r2A3_1_5 "amazon primeで見る")
+{{< amazon-prime >}}

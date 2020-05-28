@@ -10,6 +10,7 @@ tags:
 - バイオレンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91rM9DCnQdL._SX300_.jpg
+amazon_prime_url: https://www.amazon.co.jp/dp/B00FHQ2CKI
 ---
 コメディタッチのアクション映画
 <!--more-->
@@ -19,4 +20,4 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91rM9DCnQdL._SX
 
 カルテルのボスのキャスティングなんかチープだったのが唯一残念(凄み・貫禄がないというか)
 
-[![amazon prime](https://images-na.ssl-images-amazon.com/images/I/91rM9DCnQdL._SX300_.jpg)](https://www.amazon.co.jp/dp/B00FHQ2CKI)
+{{< amazon-prime >}}

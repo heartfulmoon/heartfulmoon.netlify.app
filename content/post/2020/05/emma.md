@@ -10,6 +10,7 @@ tags:
   - サスペンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/818K8BTRn3L._SX600_.jpg
+amazon_prime_url: https://www.amazon.co.jp/gp/video/detail/B07M967V72/ref=atv_dp_b00_det_c_Z0r2A3_1_20
 ---
 最初からどんどん引き込まれる感はある。
 <!--more-->
@@ -18,5 +19,5 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/818K8BTRn3L._SX
 ただの変人だ。w
 
 事件の解決も特に趣向を凝らしているわけではないし。
-[![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/818K8BTRn3L._SX600_.jpg)](https://www.amazon.co.jp/gp/video/detail/B07M967V72/ref=atv_dp_b00_det_c_Z0r2A3_1_20 "amazon primeで見る")
 
+{{< amazon-prime >}}

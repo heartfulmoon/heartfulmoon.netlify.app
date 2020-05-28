@@ -8,6 +8,7 @@ tags:
   - ヒューマン
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/811FbWbpchL._SX300_.jpg
+amazon_prime_url: https://www.amazon.co.jp/gp/video/detail/B079SW663J/ref=atv_dp_b00_det_c_Z0r2A3_1_9
 ---
 まあタイトルからしていい嘘をつくんだろうなとは思ったが
 <!--more-->
@@ -17,4 +18,4 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/811FbWbpchL._SX
 
 いろいろと考えさせられる映画だった。
 
-[![amazon primeで見る](https://images-na.ssl-images-amazon.com/images/I/811FbWbpchL._SX300_.jpg)](https://www.amazon.co.jp/gp/video/detail/B079SW663J/ref=atv_dp_b00_det_c_Z0r2A3_1_9 "amazon primeで見る")
+{{< amazon-prime >}}
