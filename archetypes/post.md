@@ -9,10 +9,9 @@ tags:
   - ドラマ
 thumbnailImagePosition: left
 #thumbnailImage: 
-#amazon_prime_url: 
+#link_url: 
 ---
 
 <!--more-->
 
-[![amazon primeで見る]()]( "amazon primeで見る")
-
+{{< amazon-prime >}}
