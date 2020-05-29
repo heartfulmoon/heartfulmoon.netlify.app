@@ -1,5 +1,5 @@
 ---
-title: "ホームカミング シーズン1"
+title: "ホームカミング(シーズン1)"
 slug: "Homecoming"
 date: 2020-05-29T13:33:23+09:00
 #draft: true
