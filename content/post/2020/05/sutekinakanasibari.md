@@ -6,6 +6,7 @@ categories:
   - movie
 tags:
   - コメディ
+  - 法廷 
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81vvucUzbCL._SX300_.jpg
 link_url: https://www.amazon.co.jp/gp/video/detail/B00GM39NNE/ref=atv_dp_b00_det_c_Z0r2A3_1_5

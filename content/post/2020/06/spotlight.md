@@ -7,6 +7,7 @@ categories:
   - movie
 tags:
   - ドラマ
+  - 法廷
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/918k3xEdaHL._SX600_.jpg
 link_url: https://www.amazon.co.jp/gp/video/detail/B01KNNJZS6/
