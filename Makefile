@@ -33,6 +33,9 @@ clean: ## Clean old files
 	@hugo --cleanDestinationDir
 	rm -fr public
 
+post: ## Post blog
+	@echo "hugo new post/<yyyy>/<mm>/<title>.md"
+
 help: ## Print this help
 	@echo 'Usage: make [target]'
 	@echo ''
