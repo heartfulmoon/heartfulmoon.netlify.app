@@ -7,6 +7,7 @@ categories:
   - movie
 tags:
   - ドラマ
+  - 歴史
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/A17hug3176L._SX600_.jpg
 link_url: https://www.amazon.co.jp/gp/video/detail/B01KSLW6AW/

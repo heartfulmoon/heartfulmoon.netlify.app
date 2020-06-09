@@ -7,6 +7,7 @@ categories:
   - movie
 tags:
   - ドラマ
+  - 青春
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/5162ZwMCz5L._AC_SY445_.jpg
 link_url: https://www.amazon.co.jp/dp/B006QJSLS2/
@@ -14,8 +15,9 @@ link_url: https://www.amazon.co.jp/dp/B006QJSLS2/
 まあタイトル邦題どおり。
 <!--more-->
 まったく同じじゃないというか全然違うんだけどやはり青春時代がオーバラップするな。
-
 今思うとあっと言う間だったけど凝縮したてんこ盛りセットだったな。
+
+やっぱモッズかっこいいわ。
 
 ロッカーとモッズの争いによって店が荒らし回られる暴動がお約束のセットとなっており、近年でも災害やデモがあるたびに欧米ではよく見られる風景だ。
 

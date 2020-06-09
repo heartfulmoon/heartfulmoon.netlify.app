@@ -17,8 +17,8 @@ echo '*~' >> .gitignore
 echo '*.bak' >> .gitignore
 echo '*.orig' >> .gitignore
 echo '.env' >> .gitignore
-echo 'public' >> .gitignor
-echo 'resources' >> .gitignor
+echo 'public' >> .gitignore
+echo 'resources' >> .gitignore
 ```
 
 テーマ設定
