@@ -1,7 +1,7 @@
 ---
 title: "スターリンの葬送狂騒曲"
 slug: "Deathofstalin"
-date: 2020-06-11T14:14:43+09:00
+date: 2020-06-10T20:14:43+09:00
 #draft: true
 categories:
   - movie
