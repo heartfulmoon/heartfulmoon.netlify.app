@@ -6,8 +6,8 @@ date: 2020-06-05T20:46:06+09:00
 categories:
   - movie
 tags:
-  - ドラマ
   - 青春
+  - 音楽
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/5162ZwMCz5L._AC_SY445_.jpg
 link_url: https://www.amazon.co.jp/dp/B006QJSLS2/
