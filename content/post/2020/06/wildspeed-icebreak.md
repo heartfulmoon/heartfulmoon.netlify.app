@@ -1,5 +1,5 @@
 ---
-title: "ワイルド・スピード・アイスブレイクk"
+title: "ワイルド・スピード ICE BREAK"
 slug: "Wildspeed Icebreak"
 date: 2020-06-13T18:06:19+09:00
 #draft: true
