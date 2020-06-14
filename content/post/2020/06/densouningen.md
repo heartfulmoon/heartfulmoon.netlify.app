@@ -1,7 +1,7 @@
 ---
 title: "電送人間"
 slug: "Densouningen"
-date: 2020-06-13T18:00:48+09:00
+date: 2020-06-11T18:00:48+09:00
 #draft: true
 categories:
   - movie

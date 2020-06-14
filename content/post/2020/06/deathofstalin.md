@@ -12,7 +12,7 @@ thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91j3-ddWipL._SX600_.jpg
 link_url: https://www.amazon.co.jp/gp/video/detail/B07MGHSCK4/
 ---
-スターリン亡き後の跡目争いのコメディ
+スターリン亡き後の跡目争いのコメディ。
 <!--more-->
 コメディといってもブラックコメディなのだがエンディングあたりは生々しい。
 

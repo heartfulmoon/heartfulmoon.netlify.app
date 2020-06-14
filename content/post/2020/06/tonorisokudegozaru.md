@@ -1,7 +1,7 @@
 ---
 title: "殿、利息でござる！"
 slug: "Tonorisokudegozaru"
-date: 2020-06-08T08:55:18+09:00
+date: 2020-06-07T08:55:18+09:00
 #draft: true
 categories:
   - movie

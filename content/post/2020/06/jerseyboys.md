@@ -16,6 +16,6 @@ Frankie Valli & the Four Seasons のサクセスストーリーというか伝�
 <!--more-->
 意外と波乱万丈だね。
 
-Frankie Valliといえばファルセットだけど彼は声が高いのｄ地声からファルセットの移行がすごいスムーズなんだな。
+Frankie Valliといえばファルセットが代名詞だけど彼は声が高いので地声からの移行がすごいスムーズなんだな。
 
 {{< amazon-prime >}}
