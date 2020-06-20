@@ -9,8 +9,8 @@ tags:
   - 音楽
   - 青春
 thumbnailImagePosition: left
-#thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91j22DVky6L._SX600_.jpg
-#link_url: https://www.amazon.co.jp/gp/video/detail/B01DIIPK96
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91j22DVky6L._SX600_.jpg
+link_url: https://www.amazon.co.jp/gp/video/detail/B01DIIPK96/
 ---
 レビューの評価が高かったので見てみた
 <!--more-->
